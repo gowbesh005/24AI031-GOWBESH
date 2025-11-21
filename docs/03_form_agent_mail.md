@@ -1,0 +1,7 @@
+- sing in to n8n workflow
+- step1: go to create workflow
+- step2: add "n8n form trigger"
+- step3: add AI agent
+- step4: add google ai chat model in ai agent and add gemini api key in google ai chat mode
+- step5: add gmail to send message
+- (https://github.com/user-attachments/assets/e1c907f0-3073-40fe-8cb6-e46d4b10063b)
